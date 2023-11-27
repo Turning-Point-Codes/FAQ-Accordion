@@ -84,7 +84,7 @@ This project is [MIT](https://github.com/Megagig/Calorie-Tracker/blob/develop/LI
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](coming soon)
+- [Live Demo Link](https://megagig-faq.netlify.app/)
 
 <!-- GETTING STARTED -->
 
